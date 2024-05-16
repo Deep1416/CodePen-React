@@ -1,5 +1,5 @@
 
-hosted link : cod-pen-react.vercel.app
+hosted link : (https://code-pen-react.vercel.app/home/auth)
 CodePen Clone
 CodePen Clone is a web application built with React.js that replicates the functionalities of CodePen, providing users with a platform to create, edit, and share HTML, CSS, and JavaScript code snippets. The application integrates Firebase for authentication and real-time database functionalities.
 
