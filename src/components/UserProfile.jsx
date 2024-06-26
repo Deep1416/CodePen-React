@@ -13,10 +13,9 @@ const UserProfile = () => {
   const signOutAction = async () => {
     try {
       await auth.signOut();
-      window.location.reload(); // Reload the window after signing out
+      window.location.reload(); 
     } catch (error) {
       console.error("Error signing out:", error);
-      // Handle sign-out error
     }
   };
 
